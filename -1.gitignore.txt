@@ -1,0 +1,7 @@
+.env
+historial_precios.json
+__pycache__/
+*.pyc
+*.log
+venv/
+.venv/
